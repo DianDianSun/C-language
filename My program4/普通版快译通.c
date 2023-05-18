@@ -49,6 +49,6 @@ int main() {
 		if(search(shuru,p)){
 			printf("NO FIND\n");
 		}
-	}	
+	}
 	return 0;
 }
