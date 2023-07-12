@@ -1,0 +1,73 @@
+23
+36
+49
+62
+73
+/*
+	@Author: BUPT
+	@Date: 2010 8 26
+*/
+
+#include<stdio.h>
+
+int main()
+{
+	int a = 10 , b = 2 , c ;
+	c = a / b ; //I just want to test '/'
+	printf("I love programming C.\n") ; //"printf" is a useful function /*
+	printf("I hope you love it too!\n") ;
+	/*
+	//C is not always hard , if you love it , it will not treat you rough.
+	*/
+	return 0 ;1
+}
+#include<stdio.h>
+
+int main()
+{
+	int a = 10 , b = 2 , c ;
+	c = a / b ; //I just want to test '/'
+	printf("I love programming C.\n") ; //"printf" is a useful function /*
+	printf("I hope you love it too!\n") ;
+	/*
+	//C is not always hard , if you love it , it will not treat you rough.
+	*/
+	return 0 ;2
+}
+#include<stdio.h>
+
+int main()
+{
+	int a = 10 , b = 2 , c ;
+	c = a / b ; //I just want to test '/'
+	printf("I love programming C.\n") ; //"printf" is a useful function /*
+	printf("I hope you love it too!\n") ;
+	/*
+	//C is /*not always hard , if you love it , it will not treat you rough.
+	*/
+	return 0 ;3
+}
+#include<stdio.h>
+/*
+int main()
+{
+	int a = 10 , b = 2 , c ;
+	c = a / b ; //I just want to test '/'
+	printf("I love programming C.\n") ; //"printf" is a useful function /*
+	printf("I hope you love it too!\n") ;
+	/*
+	//C is /*not always hard , if you love it , it will not treat you rough.
+	
+	return 0 ;4
+}
+int main()
+{
+	int a = 10 , b = 2 , c ;
+	c = a / b ; //I just want to test '/'
+	printf("I love programming C.\n") ; //"printf" is a useful function /*
+	printf("I hope you love it too!\n") ;
+	///*
+	//C is /*not always hard , if you love it , it will not treat you rough.
+	/*
+	return 0 ;5*/
+}

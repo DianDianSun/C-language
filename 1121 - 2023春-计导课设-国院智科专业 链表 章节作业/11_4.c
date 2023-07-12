@@ -5,6 +5,7 @@ typedef struct linknode{
 	
 	int num;
 	struct linknode *next;
+	
 }link;
 
 int main() {
